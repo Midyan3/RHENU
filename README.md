@@ -1,7 +1,10 @@
 # RHENU — Preview Showcase (≈95% Complete)
 
 RHENU is a full-stack digital reading platform for **light novels, manga, and books**.  
-This README presents a structured, image-driven preview of the current build. The product is ~95% complete; remaining work is polish, minor fixes, and final launch tasks.
+What makes it different from other reading platforms is that it is not just text on a screen. Authors can add **music, background cues, and immersive effects** that change as you read, giving the story a soundtrack and atmosphere that matches the moment. Readers get more than a PDF, they get an experience. Authors get full control over how that experience feels, since they can edit and sync the audio and visuals directly to their chapters.  
+
+This README presents a structured, image-driven preview of the current build. The product is ~95% complete, with most major features working. What remains is polish, minor fixes, and final launch tasks.
+
 
 ---
 
